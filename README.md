@@ -8,5 +8,7 @@ Projeto final de Desenvolvimento de Sistemas Web II
 Levantamento de Requisitos 
 
 Prototipagem
+![layout-estrutura 0 1](https://user-images.githubusercontent.com/53353680/210156965-51da7996-9b2a-4811-8db4-a25b587dc2ff.png)
+
 
 Aplicação em php
